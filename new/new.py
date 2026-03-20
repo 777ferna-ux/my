@@ -1,5 +1,5 @@
 users = {}
-
+print("Bem-vindo ao Banco Central")
 def main():
     print("\nBanco Central")
     print("1 - Login")
